@@ -1,0 +1,6 @@
+classes= 20
+train=E:/DataSets/VOC2007/VOC2007_train.txt
+valid=E:/DataSets/VOC2007/VOC2007_valid.txt
+names=data/voc.names
+backup=backup/
+eval=voc

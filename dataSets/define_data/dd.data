@@ -1,0 +1,6 @@
+classes=4
+train=D:/MATLAB/yolo_diff_version/yolo_pure_m/dataSets/define_data/train_paths.txt
+valid=D:/MATLAB/yolo_diff_version/yolo_pure_m/dataSets/define_data/valid_paths.txt
+names=D:/MATLAB/yolo_diff_version/yolo_pure_m/dataSets/define_data/dd.names
+backup=backup/
+eval=dd

@@ -1,0 +1,9 @@
+files:
+tiny-yolov2-trial3-noBatch.cfg
+tiny-yolov2-trial3-noBatch.weights
+tiny-yolov2-trial6.weights
+trial6.cfg
+trial6_342850.weights
+trial6_342950.weights
+trial6_343050.weights
+trial6_653550.weights

@@ -1,0 +1,6 @@
+classes=1
+train=D:/MATLAB/yolo_diff_version/yolo_pure_m/dataSets/vehicle/train_paths.txt
+valid=D:/MATLAB/yolo_diff_version/yolo_pure_m/dataSets/vehicle/valid_paths.txt
+names=D:/MATLAB/yolo_diff_version/yolo_pure_m/dataSets/vehicle/vehicle.names
+backup=backup/
+eval=vehicle

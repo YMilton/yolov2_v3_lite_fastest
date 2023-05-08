@@ -1,0 +1,15 @@
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\train\image041.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image042.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image043.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image044.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image045.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image046.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image047.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image048.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image049.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image050.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image051.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image052.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image053.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image054.jpg
+D:\MATLAB\yolo_diff_version\yolo_pure_m\dataSets\define_data\images\valid\image055.jpg

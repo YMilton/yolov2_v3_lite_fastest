@@ -1,0 +1,10 @@
+files:
+yolo-fastest.cfg
+yolo-fastest.weights
+yolo-fastest-1.1.cfg
+yolo-fastest-1.1.weights
+yolo-fastest-1.1_body.cfg
+yolo-fastest-1.1-xl.cfg
+yolo-fastest-1.1-xl.weights
+yolo-fastest-xl.cfg
+yolo-fastest-xl.weights
