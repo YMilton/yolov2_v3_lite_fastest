@@ -26,7 +26,18 @@ yolov2、yolov3、yoloLite、yoloFastest detection and training
 
 ### 3. 检测效果
 ##### 3.1  yolov2-tiny
-![image](https://user-images.githubusercontent.com/27056069/236856236-3b11f02c-9a66-4d6c-b27f-997320487244.png =150x100)
+![image](https://user-images.githubusercontent.com/27056069/236856236-3b11f02c-9a66-4d6c-b27f-997320487244.png)
 ##### 3.2 yolov2
 ![image](https://user-images.githubusercontent.com/27056069/236857671-ace72de7-e308-4d28-a72c-4c9adf50e657.png)
-
+##### 3.3 yolov3-tiny
+![image](https://user-images.githubusercontent.com/27056069/236858238-10f2c13b-7bb7-4e65-834e-e73a5b962669.png)
+##### 3.4 yolov3
+![image](https://user-images.githubusercontent.com/27056069/236858469-b777d3c8-1151-4a67-bd0c-134a7178ec26.png)
+##### 3.5 yolo-fastest
+![image](https://user-images.githubusercontent.com/27056069/236858678-efafecb2-656a-4b60-b684-3320a92b830d.png)
+##### 3.6 yolo-lite
+![image](https://user-images.githubusercontent.com/27056069/236858898-0e4d3311-11ce-4487-91ea-48ecaf2fccd1.png)
+##### 3.7 yolov4-tiny(GPU)
+![image](https://user-images.githubusercontent.com/27056069/236859144-d12cc162-3aac-4fbd-81c9-ff882cd425ea.png)
+##### 3.8 yolov4(GPU)
+![image](https://user-images.githubusercontent.com/27056069/236859259-9c87d381-b38d-4e28-a508-c2990dd04d02.png)
