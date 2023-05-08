@@ -26,6 +26,7 @@ yolov2、yolov3、yoloLite、yoloFastest detection and training
 
 ### 3. 检测效果
 ##### 3.1  yolov2-tiny
-![image](https://user-images.githubusercontent.com/27056069/236856236-3b11f02c-9a66-4d6c-b27f-997320487244.png)
-
+![image](https://user-images.githubusercontent.com/27056069/236856236-3b11f02c-9a66-4d6c-b27f-997320487244.png =150x100)
+##### 3.2 yolov2
+![image](https://user-images.githubusercontent.com/27056069/236857671-ace72de7-e308-4d28-a72c-4c9adf50e657.png)
 
