@@ -41,3 +41,5 @@ yolov2、yolov3、yoloLite、yoloFastest detection and training
 ![image](https://user-images.githubusercontent.com/27056069/236859144-d12cc162-3aac-4fbd-81c9-ff882cd425ea.png)
 ##### 3.8 yolov4(GPU)
 ![image](https://user-images.githubusercontent.com/27056069/236859259-9c87d381-b38d-4e28-a508-c2990dd04d02.png)
+
+<p>yolo系列网络结构图https://blog.csdn.net/YMilton/article/details/120268832<p>
